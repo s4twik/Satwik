@@ -32,8 +32,7 @@ it was encrypted in ROT13 format
 a/to it should go to plans.txt
 ![image](https://github.com/s4twik/picoctf/assets/147993943/5aafe5ac-18b6-4be1-a678-2ec0cc9c002d)
 check out the photos!!??
-didn't make alot of sense so i went to other files which i extracted from deb![Screenshot from 2023-11-07 16-36-54](https://github.com/s4twik/picoctf/assets/147993943/a3f4112d-9f9d-47d1-a579-371b97b78472)
-
+didn't make alot of sense so i went to other files which i extracted from deb
 ![image](https://github.com/s4twik/picoctf/assets/147993943/cb870c68-9308-46e2-91ee-179566f27424)
 `steghide`
 i read about it. so i have to use it on terminal to extract those bmp file
