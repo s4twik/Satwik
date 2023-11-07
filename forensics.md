@@ -39,5 +39,7 @@ i read about it. so i have to use it on terminal to extract those bmp file
 which i do.
 ![Screenshot from 2023-11-07 16-36-54](https://github.com/s4twik/picoctf/assets/147993943/0b97e3ff-9174-4ca3-a365-2eec9c9ed7cd)
 
+DONE!
 
+![Screenshot from 2023-11-07 16-38-57](https://github.com/s4twik/picoctf/assets/147993943/aa18f49c-efb2-4a0f-8e91-7d1211e63dfe)
 
