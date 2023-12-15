@@ -80,8 +80,3 @@ print("Mapped Result:", mapped_result)
 
 ![Screenshot from 2023-12-15 20-28-05](https://github.com/s4twik/picoctf/assets/147993943/d9e14ff4-1a24-487f-8d7d-766f8ce08f64)
 
-
-
-
-#### mod 1
-
