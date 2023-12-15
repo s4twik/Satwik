@@ -5,7 +5,8 @@ I know what base 16 is from the earlier challenges so i got that function then i
 i had a rought idea of the encryption's working.
 so i with the help of GPT i try writing a code do decrypt(cuz all my experience in python is 2 hours at this point) but it didn't work cuz GPT ofc
 then i watched the solution video on youtube, from there i get that i got the logic correct and tried getting the logic and tried writing the code on my own, i figured the solution will just have an extra decode function and the value of the variable `enc` as the encryption
-`import string
+````
+import string
 
 LOWERCASE_OFFSET = ord("a")
 ALPHABET = string.ascii_lowercase[:16]
@@ -36,7 +37,7 @@ for key in ALPHABET:
   print("Key:", key)
   for c in enc:
        flag += shift (c, key)
-  print("Flag: ", b16_decode(flag))`
-
+  print("Flag: ", b16_decode(flag))
+  ````
   this is my final code i run it work with a few garbage value i get the key ` et_tu?_5723f4e71a0736d3b1d19dde4279ac03`
   ![image](https://github.com/s4twik/picoctf/assets/147993943/bafa495e-24f5-4826-a0c4-6fb6521c5903)
